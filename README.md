@@ -1,20 +1,22 @@
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const SantiagoQuiroz = {
+    code: ["Javascript", "Typescript", "Python", "Kotlin", "C"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App", "Kotlin"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            js: ["React", "Vue"],
+            css: ["Sass", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
+            js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳", "Linux", "Powershell", "Git/Github"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "selenium", "open-cv", "Postman", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
