@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @EmilianoQuiroz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-EmilianoQuiroz/EmilianoQuiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
