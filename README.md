@@ -15,7 +15,7 @@ const SantiagoQuiroz = {
             python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳", "Linux", "Powershell", "Git/Github"],
-        databases: ["MySql", "PostgreSQL", "MariaDB", ""MongoDB],
+        databases: ["MySql", "PostgreSQL", "MariaDB", "MongoDB"],
         misc: ["Firebase", "Postman"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
