@@ -2,25 +2,24 @@
 
 ```javascript
 const SantiagoQuiroz = {
-    code: ["Javascript", "Typescript", "Python", "Kotlin", "C"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["Javascript", "Typescript", "Python", "Kotlin", "C", "C++", "Dart", "Java", "Go"],
+    askMeAbout: ["Web Dev", "Mobile Dev", "Game Dev", "Cloud"],
     technologies: {
-        mobileApp: ["Android App", "Kotlin"],
+        mobileApp: ["Kotlin", "Android Studio", "Dart", "Flutter"],
         frontEnd: {
             js: ["React", "Vue"],
-            css: ["Sass", "bootstrap"]
+            css: ["Sass", "bootstrap", "Tailwind"]
         },
         backEnd: {
             js: ["node", "express"],
             python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳", "Linux", "Powershell", "Git/Github"],
-        databases: ["mongo", "MySql"],
-        misc: ["Firebase", "selenium", "open-cv", "Postman", "SuiteApp"]
+        databases: ["MySql", "PostgreSQL", "MariaDB", ""MongoDB],
+        misc: ["Firebase", "Postman"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentProject: ["I am currently programming cross-platform mobile applications with Flutter",]
 };
 
 
