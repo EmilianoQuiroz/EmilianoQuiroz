@@ -7,8 +7,8 @@ const SantiagoQuiroz = {
     technologies: {
         mobileApp: ["Kotlin", "Android Studio", "Dart", "Flutter"],
         frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Sass", "bootstrap", "Tailwind"]
+            js: ["React", "Next"],
+            css: ["Sass", "bootstrap", "Tailwind", "MaterialUI"]
         },
         backEnd: {
             js: ["node", "express"],
