@@ -2,17 +2,16 @@
 
 ```javascript
 const SantiagoQuiroz = {
-    code: ["Javascript", "Typescript", "Python", "Kotlin", "C", "C++", "Dart", "Java", "Go"],
+    code: ["Javascript", "Typescript", "Python", "C++", "Dart"],
     askMeAbout: ["Web Dev", "Mobile Dev", "Game Dev", "Cloud"],
     technologies: {
-        mobileApp: ["Kotlin", "Android Studio", "Dart", "Flutter"],
+        mobileApp: ["Dart", "Flutter", "ReactNative],
         frontEnd: {
             js: ["React", "Next"],
-            css: ["Sass", "bootstrap", "Tailwind", "MaterialUI"]
+            css: ["reactBootstrap", "Tailwind", "MaterialUI"]
         },
         backEnd: {
-            js: ["node", "express"],
-            python: ["flask"]
+            js: ["node", "express"]
         },
         devOps: ["AWS", "Docker🐳", "Linux", "Powershell", "Git/Github"],
         databases: ["MySql", "PostgreSQL", "MariaDB", "MongoDB"],
